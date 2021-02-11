@@ -5,6 +5,6 @@ Script que pregunta el nombre del usuario en la consola y después de que el usu
 
 """
 
-name = input("Introduce tu nombre: ")
+name = input("Introduce tu nombre: juani")
 print("¡Hola " + name + “!")
 
